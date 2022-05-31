@@ -128,7 +128,7 @@ function sleep(ms) {
 }
 ```
 
-## Work on listMonsters functionality (list the Monsters in game)
+## Work on listMonsters functionality (list the Monsters in game) -- INCOMPLETE, STARTED
 ```
   listMonsters = () => {
     monsterList.forEach(addMonsterToList)
