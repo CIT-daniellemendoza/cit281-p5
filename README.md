@@ -7,6 +7,13 @@ Create and write code for Monster Game functionality.
 
 Note: Did not complete this project, below is starter code and what was started for list monsters functionality.
 
+Technologies Used:
+- Visual Studio Code
+
+Skills Learned:
+- working with classes
+- problem solving
+
 ## p5.js starter code
 ```
 // IMPORTANT: Note no object deconstruction when importing a class
